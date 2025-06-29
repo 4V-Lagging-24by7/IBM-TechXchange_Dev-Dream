@@ -7,7 +7,7 @@
 
 ### 🚀 Built for: IBM TechXchange Hackathon 2025  
 **Event Dates**: June 26 – 29, 2025  
-**Team Name**: Dev Dream 
+**Team Name**: Dev Dream <br>
 **Team Members**:
 - Bikash Dube  
 - Charvi Singh

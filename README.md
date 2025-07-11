@@ -7,7 +7,8 @@
 
 ### 🚀 Built for: IBM TechXchange Hackathon 2025  
 **Event Dates**: June 26 – 29, 2025  
-**Team Name**: Dev Dream <br>
+*Team Name*: Dev Dream <br>
+
 ---
 
 ## 🌟 Overview
@@ -19,7 +20,9 @@ Our solution: **a voice-driven, multilingual, AI-powered assistant** that allows
 - Clear, actionable fixes  
 - Automated execution when needed  
 
-No more deciphering cryptic logs. Just ask and act.
+No more deciphering cryptic logs. Just ask and act.<br>
+Watch the Demo video: https://youtu.be/qZzBTY5bomk
+
 
 ---
 
